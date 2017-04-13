@@ -1,0 +1,31 @@
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.dll
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.dll
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.csprojResolveAssemblyReference.cache
+U:\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.dll
+U:\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.pdb
+U:\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.csprojResolveAssemblyReference.cache
+U:\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.dll
+U:\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.pdb
+T:\ENTREGAS\TPI\Projeto Final 2015_12_02\03\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.dll
+T:\ENTREGAS\TPI\Projeto Final 2015_12_02\03\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.pdb
+T:\ENTREGAS\TPI\Projeto Final 2015_12_02\03\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.csprojResolveAssemblyReference.cache
+T:\ENTREGAS\TPI\Projeto Final 2015_12_02\03\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.dll
+T:\ENTREGAS\TPI\Projeto Final 2015_12_02\03\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.pdb
+E:\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.dll
+E:\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.pdb
+E:\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.csprojResolveAssemblyReference.cache
+E:\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.dll
+E:\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.dll
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.pdb
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.dll
+C:\Users\Bruno\OneDrive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.pdb
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.dll.config
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.dll
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\bin\prjProjetoFinal.pdb
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.csprojResolveAssemblyReference.cache
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.dll
+C:\Users\bruno\Google Drive\Bruno Editor\ETEC\2º Ano\Freddy\Aspx\Projeto Final - New Program\prjProjetoFinal\prjProjetoFinal\obj\Debug\prjProjetoFinal.pdb

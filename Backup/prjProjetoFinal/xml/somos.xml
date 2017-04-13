@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SOMOS>
+  <PESSOA>
+    <nome>ESDRAS NANI</nome>
+    <funcao>PROGRAMADOR BACK-END</funcao>
+    <foto>../img/Esdras Nani.jpg</foto>
+    <estilo></estilo>
+  </PESSOA>
+  <PESSOA>
+    <nome>BRUNO MARINI</nome>
+    <funcao>PROGRAMADOR FRONT-END</funcao>
+    <foto>../img/Bruno Marini.jpg</foto>
+    <estilo>border: 3px solid whitesmoke</estilo>
+  </PESSOA>
+  <PESSOA>
+    <nome>VINICIUS MIRANDA</nome>
+    <funcao>DESIGN</funcao>
+    <foto>../img/Vinicius Miranda.jpg</foto>
+    <estilo></estilo>
+  </PESSOA>
+</SOMOS>

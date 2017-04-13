@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<WEB>
+  <ITEM>
+    <titulo>Omelete</titulo>
+    <imagem>../img/omelete.jpg</imagem>
+    <situacao>EM PRODUÇÃO</situacao>
+    <descricao>Reboot do site Omelete.com, entreterimento e notícias</descricao>
+  </ITEM>
+</WEB>

@@ -1,0 +1,389 @@
+/*----------FONTS------------*/
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+@font-face{
+	font-family: 'Geral';
+	src: url('../fonts/Lato-Light.ttf');	
+}
+
+/*----------NORMALIZAÇÃO------------*/
+*{
+	margin: 0;
+    padding: 0;
+    border: none;
+	font-family: 'Geral';  
+    list-style: none; 
+}
+a{text-decoration: none; color: #fff}
+
+html,body{
+    height: 100%;
+}
+
+
+body{
+	font-size: 62.5%;    
+}
+
+::selection{color: whitesmoke;background-color: #00b7ad}
+
+/*------------NAV (MENU)-----------------*/
+
+#Menu{
+    max-width: auto;
+    width: 100%;
+	height: 90px;   
+
+    position: fixed;
+    margin: auto; 
+    
+    transition: 1.5s;
+}
+
+#Menu ul
+{
+    font-size: 2.5em;
+    list-style: none;
+    display: inline-flex;
+    float: right;
+    margin-top: 2%;
+    margin-right: 0.5%
+}
+
+#Menu li{margin: 0 15px 0;opacity: 0.7}
+#Menu li:hover{transition: 1s; opacity: 1}
+
+#Menu.fade{opacity: 0.4}
+#Menu.fade:hover{opacity: 0.7}
+
+#home
+{
+    max-width: 50px;
+    width: 10%;
+    margin-top: 1%;
+    margin-left: 1%;
+    opacity: 0.7;
+}
+
+/*------------BANNER-----------------*/
+#Banner{
+	background: url('../img/banner.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+    text-align: center;
+    
+    height: auto;
+    width: 100%;
+    
+    
+    box-shadow: 0px -15px 80px black;
+
+    float: left;
+}
+
+#logo{
+    max-width: 200px;
+    width: 100%;
+    
+	margin-top: 5%;
+    background-color: white;
+        
+   animation: fade  ease-in 1.5s;
+    padding: 4px;
+}
+
+#Banner p{
+    margin: 5% auto auto auto;
+    width: 45%;
+    text-align: center;
+    
+    color: #fff;
+	font-size: 2.8em;	
+	font-weight: 100;
+    
+    text-shadow: 1px 1px 30px gray;
+    
+    animation: fade ease-in 1.5s;
+}
+
+#New{color: #00b7ad; font-weight: 700; text-shadow: 1px 1px 1px white;}
+#Program{color: #00c5da; font-weight: 700; text-shadow: 1px 1px 1px white}
+
+#rolar{
+	color: #fff;
+	font-family: 'Geral';
+	text-align: center;
+	font-size: 1.5em;
+	margin-top: 11.3%;
+    opacity: 0.5;
+    display: block;
+    text-decoration: none;
+    
+   animation: cair  ease-out 1.5s;
+}
+
+#rolar img{
+    max-width: 30px;
+	width: 100%;
+    
+    animation: seta ease-out 2s 2;
+    animation-delay: 1.5s;
+}
+
+
+#rolar h2{
+    opacity: 0.5;
+    transition: 1s;
+}
+/*-------------SESSÕES DE INFORMAÇÕES DA EMPRESA-------------*/
+.info{
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+    animation: fade ease-in 2s
+}
+.info h1{
+    font-size: 4em;	
+    opacity: 0.9;
+    padding-top: 1.5%
+}
+.info h2{margin-top: 5px;font-size: 1.6em}
+.info ul{display: inline-flex}
+
+/*-------------PORTFÓLIO-------------*/
+#Portfolio
+{
+    background-image: url('../img/code.jpg');
+    background-color: #3a383b;
+	background-repeat: no-repeat;
+	background-size: auto;
+	background-position: left;
+	
+    max-width: auto;
+    width: 100%;
+    height: auto; 
+    
+    color: whitesmoke;
+    clear: both
+}
+#Portfolio:hover{transition:1s;}
+#Portfolio h1{color: lightgray}
+
+#Portfolio h2
+{
+    color: gray; 
+}
+
+#Portfolio h3
+{
+    color: whitesmoke;
+    background-color: lightgray; 
+    font-size: 1.7em; 
+    padding: 10px 0; 
+}
+#Portfolio p
+{
+    font-size: 1.4em; 
+    font-weight: 600;
+    
+    color: gray;
+    box-sizing: border-box;
+    margin: auto;
+    padding: 15px;
+    
+    width: 80%;
+}
+
+#Portfolio ul{margin-top: 120px;}
+#Portfolio li
+{
+    border-radius: 10px 10px 0px 0px;  
+    margin: auto 7px auto 7px; 
+    background-color: whitesmoke;
+    max-width: 350px; 
+    width: 100%; 
+    transition: 1s;
+ }
+#Portfolio li:hover{box-shadow: 1px 1px 30px gray}
+
+
+.thumb
+{
+    width: 100%;
+    height: 220px;  
+    border-radius: 5px 5px 2px 2px;
+    opacity: 0.8;
+}
+
+.situacao
+{
+    background-color: whitesmoke;
+    max-width: 350px; 
+    width: 100%; 
+    height: 20px;
+    padding: 2px
+}
+
+/*-------------O QUE FAZEMOS-------------*/
+
+#Categorias{
+    background-color: whitesmoke;
+    color: gray;
+}
+
+#Categorias p{
+    font-size: 2em;
+    margin-top: 2%;
+    padding-bottom: 10px;
+    opacity: 0.8
+}
+
+#Categorias img{
+    max-width: 110px;
+    width: 100%;
+    margin: 60px 20px 0 20px;
+    border-radius: 100px;
+    border: solid 5px whitesmoke
+}
+#Categorias img:hover{transition: 2s}
+
+#Categorias ul{font-size: 1.5em; font-weight: 900;}
+
+#Categorias li{opacity: 0.6;}
+#Categorias li:hover{opacity: 1;}
+
+/*-------------EXEMPLOS-------------*/
+#exemplo img
+{
+    max-width: 500px;
+    width: 100%;
+    border: solid 5px whitesmoke;
+}
+
+/*-------------SOMOS-------------*/
+#Somos{
+    background-image: url(../img/somos.jpg);
+    background-size: 100% contain;
+    text-align: center;
+    
+    color: whitesmoke;
+    padding-bottom: 3%;
+    
+    max-width: auto;
+    width: 100%;
+    clear: both
+}
+
+#Somos h2{color: lightblue}
+
+#Somos img{
+    height: 200px;
+    max-width: 200px;
+    width: 100%;
+
+    border-radius: 100px; 
+    border: 3px solid #729398
+}
+
+#Somos ul{margin-top: 150px; }
+#Somos li{margin: 0 30px}
+
+#Somos h3{margin-top: 5px; font-size: 2.3em;}
+#Somos h4{margin: 10px auto auto auto;font-size: 1.8em; font-weight: 100;width:60%;}
+#Somos p{margin: 100px auto auto auto;font-size: 1.8em; max-width: auto;width: 60%;color: whitesmoke;opacity: 0.8;font-weight: 900}
+
+
+/*-------------FUINCIONA-------------*/
+#Funciona
+{
+    background-color: #3a383b;
+
+    text-align: center;  
+    height: 400px;
+    color: #f0f2e7;
+}
+
+#Funciona h2{color: #dad1c0}
+
+#Funciona ul{margin-top: 90px; font-size: 1.7em}
+#Funciona li{
+    margin: 0 20px; 
+    background-color: Gray;
+    border-radius: 10px; 
+    padding: 35px;    
+    
+    transition-timing-function: linear;
+    transition-duration: 1s;
+    transition-property: opacity;
+    }
+
+#Funciona li:hover{opacity: 0.5}
+
+/*------------CONTATO-----------------*/
+#Contato{
+    background-color: lightgray;
+    color: whitesmoke;
+    padding-bottom:1%;
+    max-width: auto;
+    width: 100%;
+}
+
+#Contato h1{margin-bottom: 20px;}
+#Contato p{font-size: 1.5em; text-align: left; margin-left: 10px}
+
+/*-------------FORMULÁRIO-------------*/
+.txt{height: 40px; font-size: 2.1em; color: gray; text-align: center; background-color: whitesmoke}
+
+#txtNome{width:20%;}
+#txtSobrenome{width:30%;}
+#txtEmail, #txtAssunto{margin-top: 2px; max-width: 1600px;width: 50.2%; }
+
+#enviar{margin-top: 2px; max-width: auto; width: 50.5%; display: inline-flex}
+
+#txtMensagem{height: 100px;width: 80%; text-align: left}
+#btnEnviar{height: 100px; width: 20%; color: white;  font-weight: 900; font-family: 'Geral'}
+#btnEnviar:active{transition: 0.5s ;background-color: #3fb094}
+
+/*-------------FOOTER-------------*/
+#Footer{background-color: darkgray; height: 8%}
+
+
+@-webkit-keyframes cair
+{
+    0%{margin-top: -30%}
+    100%{margin-top: 11.3%}
+}
+
+@keyframes cair
+{
+    0%{margin-top: -30%}
+    100%{margin-top: 11.3%}
+}
+
+@-webkit-keyframes seta 
+{
+    0%{margin-top: 0;}
+    50%{margin-top: -10px;}
+    100%{margin-top: 0;}
+}
+
+@keyframes seta 
+{
+    0%{margin-top: 0;}
+    50%{margin-top: -10px;}
+    100%{margin-top: 0;}
+}
+
+@-webkit-keyframes fade 
+{
+    0%{opacity: 0;}
+    25%{opacity: 0;}
+    100%{opacity: 1;}
+}
+ 
+ @keyframes fade 
+{
+    0%{opacity: 0;}
+    25%{opacity: 0;}
+    100%{opacity: 1;}
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SOFTWARE>
+  <ITEM>
+    <titulo>NET</titulo>
+    <imagem>../img/net.jpg</imagem>
+    <situacao>COMPLETO</situacao>
+    <descricao>Cadastro de novos clientes e funcionários da NET</descricao>
+  </ITEM>
+</SOFTWARE>
